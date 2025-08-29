@@ -1,2 +1,2 @@
 # SQL_DATAWAREHOUSE
-This is a repository for implementing the medallion architecture of an analytical 
+This is a repository for implementing the medallion architecture of analytical data. 
